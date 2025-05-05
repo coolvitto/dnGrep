@@ -852,7 +852,7 @@ dnGrep "C:\Program Files\dnGrep" t\w*t</value>
     <comment>Main window encoding auto select text</comment>
   </data>
   <data name="Main_EverythingIndexService" xml:space="preserve">
-    <valueEverything インデックス サービス</value>
+    <value>Everything インデックス サービス</value>
     <comment>Main window, pattern type option Everything tooltip</comment>
   </data>
   <data name="Main_EverythingSearch" xml:space="preserve">
